@@ -19,8 +19,6 @@ Bibi 电商全栈解决方案
 
 ### Screenshot
 
-![](http://7xn6eu.com1.z0.glb.clouddn.com/frontend.jpeg)
-
 ![](./1.jpg)
 
 ### Deploy
